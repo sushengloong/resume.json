@@ -1,0 +1,100 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  },
+  "basics": {
+    "name": "Sheng-Loong Su",
+    "email": "sushengloong@gmail.com",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/sushengloong"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sushengloong"
+      }
+    ],
+    "summary": "Dynamic engineering leader with extensive experience in building scalable backend services and applications in early stage and Unicorn startups as well as \"big tech\" companies in Singapore and San Francisco. Skilled in Rust, with a strong foundation in compiled languages and full-stack development. Proven ability to lead cross-functional teams and thrive in flat organizational structures.",
+    "location": {
+      "city": "Singapore",
+      "countryCode": "SG"
+    }
+  },
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["Java", "Python", "TypeScript", "Scala", "Ruby", "Rust"]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "AI: Langchain, PyTorch, FastAI, SparkML",
+        "Backend: Scala, Rust, Java, Python, Spring Boot, Ruby on Rails",
+        "Frontend: JavaScript, Typescript, React, NextJS and D3.JS",
+        "Cloud native: Amazon Web Services, Google Cloud Platform",
+        "Big data engineering: Spark, Flink, Airflow, Redshift, Kafka",
+        "Functional Programming: Cats Effect, ZIO, Tagless Final"
+      ]
+    },
+    {
+      "name": "Specialties",
+      "keywords": ["Product and service development", "Engineering leadership"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Acme Technology",
+      "position": "Founding Engineer / Head of Engineering",
+      "startDate": "2023-04",
+      "summary": "Architected and developed high-availability backend services for banking integrations, using Java and Python. Managed a diverse team of engineers in a rapid development and daily deployments environment."
+    },
+    {
+      "company": "Smartpay",
+      "position": "Founding Head of Backend Engineering",
+      "startDate": "2021-07",
+      "endDate": "2023-04",
+      "summary": "Engineered and scaled a pioneering multi-acquirer backend system. Instituted a company-wide continuous deployment process for daily software releases."
+    },
+    {
+      "company": "Stripe",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-02",
+      "endDate": "2021-07",
+      "summary": "Developed and deployed secure, scalable payment solutions across APAC. Led technical assessments and integration of new banking partners."
+    },
+    {
+      "company": "Salesforce",
+      "position": "Senior Software Engineer",
+      "startDate": "2018-12",
+      "endDate": "2020-01",
+      "summary": "Spearheaded the design and implementation of a messaging queue architecture, improving asynchronous data integration among distributed teams."
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Queensland, Australia",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2007-07",
+      "endDate": "2011-07",
+      "gpa": "7 out of 7",
+      "awards": ["Dean's Commendation for High Achievement"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Minister of Manpower Award, Singapore",
+      "date": "2015",
+      "awarder": "Ministry of Manpower, Singapore"
+    },
+    {
+      "title": "ShareInvestor Director's Award",
+      "date": "2016",
+      "awarder": "ShareInvestor"
+    }
+  ]
+}

@@ -12,7 +12,13 @@ My [JSON Resume](https://jsonresume.org/)
 npm install
 ```
 
-2. Export resume to a PDF file.
+2. Run server.
+
+```sh
+npm run dev
+```
+
+3. (Optional) export resume to a PDF file.
 
 ```sh
 npx export-pdf

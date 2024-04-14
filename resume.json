@@ -18,7 +18,7 @@
         "url": "https://www.linkedin.com/in/sushengloong"
       }
     ],
-    "summary": "Dynamic engineering leader with extensive experience in building scalable backend services and applications in early stage and Unicorn startups as well as \"big tech\" companies in Singapore and San Francisco. Skilled in Rust, with a strong foundation in compiled languages and full-stack development. Proven ability to lead cross-functional teams and thrive in flat organizational structures.",
+    "summary": "A senior engineer and engineering leader with extensive experience in building scalable products, APIs and backend services in early stage startups, unicorn startups and big tech companies in Singapore and San Francisco.",
     "location": {
       "city": "Singapore",
       "countryCode": "SG"
@@ -26,52 +26,77 @@
   },
   "skills": [
     {
-      "name": "Languages",
-      "keywords": ["Java", "Python", "TypeScript", "Scala", "Ruby", "Rust"]
-    },
-    {
-      "name": "Technologies",
+      "name": "Engineering leadership",
       "keywords": [
-        "AI: Langchain, PyTorch, FastAI, SparkML",
-        "Backend: Scala, Rust, Java, Python, Spring Boot, Ruby on Rails",
-        "Frontend: JavaScript, Typescript, React, NextJS and D3.JS",
-        "Cloud native: Amazon Web Services, Google Cloud Platform",
-        "Big data engineering: Spark, Flink, Airflow, Redshift, Kafka",
-        "Functional Programming: Cats Effect, ZIO, Tagless Final"
+        "Roadmap",
+        "people management",
+        "cross-functional collaboration"
       ]
     },
     {
-      "name": "Specialties",
-      "keywords": ["Product and service development", "Engineering leadership"]
+      "name": "AI/ML engineering",
+      "keywords": ["LangChain", "OpenAI", "Hugging Face", "PyTorch", "SparkML"]
+    },
+    {
+      "name": "Backend engineering",
+      "keywords": ["Scala", "Rust", "Java", "Python", "NodeJS"]
+    },
+    {
+      "name": "Full stack engineering",
+      "keywords": ["React", "TypeScript"]
+    },
+    {
+      "name": "Data engineering",
+      "keywords": ["Spark", "Flink", "Airflow", "Redshift", "Kafka"]
+    },
+    {
+      "name": "Functional programming",
+      "keywords": ["Cats Effect", "ZIO", "Tagless Final"]
+    },
+    {
+      "name": "Infrastructure",
+      "keywords": ["AWS", "GCP", "Docker", "Kubernetes", "Terraform"]
     }
   ],
   "work": [
     {
-      "company": "Acme Technology",
+      "name": "Acme Technology",
+      "location": "Singapore",
       "position": "Founding Engineer / Head of Engineering",
       "startDate": "2023-04",
-      "summary": "Architected and developed high-availability backend services for banking integrations, using Java and Python. Managed a diverse team of engineers in a rapid development and daily deployments environment."
+      "summary": "-WIP-"
     },
     {
-      "company": "Smartpay",
+      "name": "Smartpay",
+      "location": "Singapore",
       "position": "Founding Head of Backend Engineering",
       "startDate": "2021-07",
       "endDate": "2023-04",
-      "summary": "Engineered and scaled a pioneering multi-acquirer backend system. Instituted a company-wide continuous deployment process for daily software releases."
+      "summary": "-WIP-"
     },
     {
-      "company": "Stripe",
+      "name": "Stripe",
+      "location": "Singapore",
       "position": "Senior Software Engineer",
       "startDate": "2020-02",
       "endDate": "2021-07",
-      "summary": "Developed and deployed secure, scalable payment solutions across APAC. Led technical assessments and integration of new banking partners."
+      "summary": "-WIP-"
     },
     {
-      "company": "Salesforce",
+      "name": "Salesforce",
+      "location": "San Francisco",
       "position": "Senior Software Engineer",
-      "startDate": "2018-12",
+      "startDate": "2017-06",
       "endDate": "2020-01",
-      "summary": "Spearheaded the design and implementation of a messaging queue architecture, improving asynchronous data integration among distributed teams."
+      "summary": "-WIP-"
+    },
+    {
+      "name": "Government Technology Agency (GovTech)",
+      "location": "Singapore",
+      "position": "Software Engineer",
+      "startDate": "2014-10",
+      "endDate": "2017-06",
+      "summary": "-WIP-"
     }
   ],
   "education": [
@@ -79,22 +104,9 @@
       "institution": "The University of Queensland, Australia",
       "area": "Information Technology",
       "studyType": "Bachelor",
-      "startDate": "2007-07",
-      "endDate": "2011-07",
-      "gpa": "7 out of 7",
-      "awards": ["Dean's Commendation for High Achievement"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Minister of Manpower Award, Singapore",
-      "date": "2015",
-      "awarder": "Ministry of Manpower, Singapore"
-    },
-    {
-      "title": "ShareInvestor Director's Award",
-      "date": "2016",
-      "awarder": "ShareInvestor"
+      "startDate": "2010",
+      "endDate": "2011",
+      "gpa": "7.0/7.0"
     }
   ]
 }

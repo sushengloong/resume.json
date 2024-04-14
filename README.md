@@ -21,5 +21,5 @@ npm run dev
 3. (Optional) export resume to a PDF file.
 
 ```sh
-npx export-pdf
+npx run export-pdf
 ```

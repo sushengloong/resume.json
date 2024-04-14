@@ -5,6 +5,7 @@
   },
   "devDependencies": {
     "husky": "^9.0.11",
+    "jsonresume-theme-onepage-plus": "^1.0.1",
     "lint-staged": "^15.2.2",
     "prettier": "^3.2.5",
     "resume-cli": "^3.1.2"
@@ -15,6 +16,8 @@
     ]
   },
   "scripts": {
-    "prepare": "husky"
+    "prepare": "husky",
+    "dev": "npx resume serve --theme jsonresume-theme-onepage-plus",
+    "export-pdf": "npx resume export --theme jsonresume-theme-onepage-plus resume.pdf"
   }
 }

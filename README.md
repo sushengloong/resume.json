@@ -15,5 +15,5 @@ npm install
 2. Export resume to a PDF file.
 
 ```sh
-npx resume export resume.pdf
+npx export-pdf
 ```
